@@ -1,11 +1,7 @@
 var yourCode = {
-  moviesFor: function(person) {
+  commafy: function(n) {},
 
-  },
-
-  joinToString: function(array) {
-
-  }
+  joinToString: function(array) {}
 }
 
 module.exports = yourCode;
